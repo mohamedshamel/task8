@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 ![alt text](6030354338556874170_121.jpg)
 
 *Login Screen
-![alt text](6030354338556874568_121.jpg)
+![alt text](image.png)
